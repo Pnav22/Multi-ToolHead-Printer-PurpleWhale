@@ -3,7 +3,7 @@
 
 **PW** is a custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. 
 
-ara
+
 
 CAD                         |  
 <img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/831fb48f-fb7d-4880-aedd-96e3bf8b3078" />
