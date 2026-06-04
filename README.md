@@ -1,7 +1,7 @@
 # Multi-ToolHead-Printer-PurpleWhale(PW)
 
 
-**PW** is a custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. 
+**PW** is a custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. This project was made for Fallout.
 
 
 
