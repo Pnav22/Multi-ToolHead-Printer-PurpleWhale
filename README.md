@@ -14,6 +14,10 @@ more CAD
   <img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/9d6bb2e6-a30e-4061-8248-f8babb43b6ab" />
 
 
+---
+#Printer Wiring Diagram
+This is a extremely rudimentary generalization of the wiring. 
+<img width="1311" height="901" alt="PrinterSchematic" src="https://github.com/user-attachments/assets/21c64d5f-6900-4278-96eb-1668bb945c33" />
 
 ---
 
