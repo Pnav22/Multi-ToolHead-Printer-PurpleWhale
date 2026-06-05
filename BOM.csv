@@ -1,34 +1,32 @@
-Item,Quantity,Cost (USD)
-BTT Manta M8P V2.0,1,$85
-BTT CB2 Compute Module,1,$35
-BTT EBB36 CAN Toolhead Board,4,$100
-UTOC-3 USB-CAN Adapter,1,$20
-Meanwell LRS-750-24 PSU,1,$55
-5V Buck Converter,1,$8
-Wiring Terminal Board,1,$12
-2020/2040 Aluminum Extrusion,Assorted,$60
-MGN12H Linear Rail,5,$65
-Gates 2GT Belt + Pulleys,1 Set,$35
-NEMA 17 Stepper Motor,5,$55
-Leadscrew + Brass Nut,2,$25
-Idlers + Hardware Kit,1 Set,$20
-TZ V6 Hotend,4,$100
-Orbiter v2 Extruder,4,$140
-5015 Blower Fan,4,$24
-3010 Hotend Fan,4,$16
-Pogo Pin Connector,4,$30
-Kinematic Coupling Balls + Magnets,4 Sets,$40
-Dock Brackets (Printed),4,$5
-Steel Kinematic Ball Dock,4,$15
-N52 Neodymium Magnets,Assorted,$20
-300x300 Aluminum Bed Plate,1,$25
-PEI Spring Steel Sheet,1,$20
-300x300 Silicone Bed Heater (750W),1,$30
-SSR-25DA Solid State Relay,1,$12
-Printed Parts Filament,1 Lot,$20
-Wiring + Connectors + Crimps,1 Lot,$25
-PTFE-Sleeved Wire Bundle,2,$15
-Klicky or CR Touch Probe,1,$15
-Frame Brackets + T-Nuts,1 Set,$20
-Lubricant,1,$10
-Oil,1,$10
+Item,Quantity,Cost (USD),Link
+BTT Manta M8P V2.0,1,$85,https://www.amazon.com/gp/product/B0CHFJYM5N/ref=ox_sc_act_image_10?smid=A2K1WYI5NZ8QSW&th=1
+BTT CB2 Compute Module,1,$35,https://www.amazon.com/BIGTREETECH-Control-Storage-Compatible-Raspberry-Pi/dp/B0D1VDN356/ref=sr_1_3_sspa?crid=3RV8A921RN4N8&dib=eyJ2IjoiMSJ9.Kkdf40_xD1FG79ApkoSUCsQBtjgXrEIfp7-9cqAoLAM.LQFKB1a2lOmcuEa9NeCq50ecQME1FdC_YibMdqriWtA&dib_tag=se&keywords=BTT%2BCB2%2BCompute%2BModule&qid=1780685908&s=industrial&sprefix=btt%2Bcb2%2Bcompute%2Bmodule%2Cindustrial%2C365&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1
+BTT EBB36 CAN Toolhead Board,4,$100,https://www.amazon.com/BIQU-MAX31865-Filament-Blockage-Detection/dp/B0B1MFXGTZ/ref=sr_1_4_sspa?crid=3RV8A921RN4N8&dib=eyJ2IjoiMSJ9.Kkdf40_xD1FG79ApkoSUCsQBtjgXrEIfp7-9cqAoLAM.LQFKB1a2lOmcuEa9NeCq50ecQME1FdC_YibMdqriWtA&dib_tag=se&keywords=BTT%2BCB2%2BCompute%2BModule&qid=1780685908&s=industrial&sprefix=btt%2Bcb2%2Bcompute%2Bmodule%2Cindustrial%2C365&sr=1-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1
+UTOC-3 USB-CAN Adapter,1,$20,https://www.amazon.com/FYSETC-STM32F072-Interface-Candlelight-Firmware-Pack/dp/B0BPY5HY6C/ref=sr_1_1?crid=E8I2QCJ6X428&dib=eyJ2IjoiMSJ9.haWKPk4AHAfuD48n2bINndMYuAdWyL5QYbk2-cx0o6m0JNBqwzafkGAHofZsqMxAJHcF8B1-wuQZHrAShLCKR3pD5Y1t78k7UuIQOSwh5JLsHrLGLrg1Gag0zns0NeVo.od3cgRCaoLAytxrwRaXSqkOjPlrhpL--t-8XYYXikYs&dib_tag=se&keywords=UTOC-3+USB-CAN+Adapter&qid=1780685960&s=industrial&sprefix=utoc-3+usb-can+adapter%2Cindustrial%2C139&sr=1-1
+Meanwell LRS-750-24 PSU,1,$55,https://www.amazon.com/MEAN-WELL-LRS-350-24-350-4W-Switchable/dp/B013ETVO12/ref=sr_1_1_mod_primary_new?crid=1WXZGPLC90UF4&dib=eyJ2IjoiMSJ9.8KwALn-ttoUFwpyq_iWQVVb9IyDZi9fpNNGcY036F1MY4YNlBwjW38ZnHopOz_eUEuJ71ScjhgilPx54-ZDsO_oAI5F6lwwcqeZcEacd4gN_eKe3FOHqjOepwrNz5cuJGtWuyyvAbOsZkVMuIYSfzKJFuJwLcoNV4iBD7csPaxmErNFXBv2I14odSci9ns_9-6MFYkVB6CrDzjKABNVciQnorRuDAnIPVuw2nlFpo_MEQ0R1ZeswSFpo6O2XvzQKrm_2YmVxf1p3WHKq3ZIWZ3jjEANWYjyoqAJ_trA6DH4.V4Z93NTgH3QLRB15e_oJGnR3SiAVzlvihMuuYZOgAHI&dib_tag=se&keywords=12v+24ohm+psu&qid=1780685985&s=industrial&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=12v+24ohm+psu%2Cindustrial%2C158&sr=1-1
+5V Buck Converter,1,$8,https://www.amazon.com/LYLANMO-LM2596S-Adjustable-Converter-1-25-37V/dp/B0G84N2VWH/ref=sr_1_2_sspa?crid=3LE31T45T9HF6&dib=eyJ2IjoiMSJ9.R3eMEvf6w9rE23wNYOZUEHLGGUcU48BaXlefWoyZaTs0ZlfE1KZ1a7Tkdlnr_qnwY9SdxNMs0jfEBwwtW09etRyETTTcorMPms6fU5Jkk8w7NE6LoQaiFw2aq5UgKXXdyEHWryVXuhJ7w3aLFsjdfO_UFH2BQHiKlSb5wenv0TZNwF4pdBt3-HqFrHkdsA5EzT2kengtYS-yZ2CmpWncayM8H-6vYwOb3vjVYnuRwg1vLDZxW1FrvbhhGw4QF5_4gury9-waXxkl28akK5Snv4qB-LXFUc5RX1HUTyQ-2_s.8sSljtSbV_tGaTPMfbk-UYyBdRSP3lhJ5IGgPvTQ-4I&dib_tag=se&keywords=buck+converter&qid=1780685997&s=industrial&sprefix=buck+conver%2Cindustrial%2C653&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Wiring Terminal Board,1,$12,https://www.amazon.com/HUAREW-Breadboard-Jumper-Include-Points/dp/B09VKYLYN7/ref=sr_1_1_sspa?crid=35QYT1RD7K0U7&dib=eyJ2IjoiMSJ9.5Z5yTwL-oa1r18Ah_zf9OdziZtM7NtJzJKlf3z7Il1SfhzbbpyaLfDx_YoTfuRBttvpZzxQlaI137_DRjWbETZmyt-VCRpFFDJMMaexU9xZmgtQmVor92h4rTJ6gy_PTMqzMkM3FRNBD9q3yAKo244J0Jl2Nc6L2uK-_-OnOmjdYOhyctlbOD7v0kajCa_CjMST1ucg5LpH_6aWWRLmWupyZFLEpqH6EMYat4t3X8w1wS6n6NmoghheY2wXXITBuehEKQXnLQKEla9Tzzu8eMds2xqmtxEgyePRH_O_UAOY.XsR95REbRGiOyYEGlZL_yKEVpNq4lqsEerIjySqpM0E&dib_tag=se&keywords=breadboard&qid=1780686009&s=industrial&sprefix=buck+converter%2Cindustrial%2C334&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+2020/2040 Aluminum Extrusion,Assorted,$60,https://www.amazon.com/gp/product/B0GCF5TRL3/ref=ewc_pr_img_36?smid=A30WUG2ZDGM0XM&th=1
+MGN12H Linear Rail,5,$65,https://www.amazon.com/gp/product/B0D3T527GR/ref=ewc_pr_img_14?smid=A31QZVWR40HWH8&th=1
+Gates 2GT Belt + Pulleys,1 Set,$35,https://www.amazon.com/gp/product/B0BYVF55S3/ref=ewc_pr_img_8?smid=AK64CGABQOWCO&psc=1
+NEMA 17 Stepper Motor,5,$55,https://www.amazon.com/gp/product/B00QEYADRQ/ref=ewc_pr_img_20?smid=AWQBCGWISS7BL&psc=1
+Leadscrew + Brass Nut,2,$25,https://www.amazon.com/gp/product/B0BXH8BXR7/ref=ewc_pr_img_30?smid=A1IRK3JDZ203K8&th=1
+Idlers + Hardware Kit,1 Set,$20,https://www.amazon.com/gp/product/B0BYVF55S3/ref=ewc_pr_img_8?smid=AK64CGABQOWCO&psc=1
+TZ V6 Hotend,4,$100,https://www.amazon.com/gp/product/B0DNS7RWF1/ref=ewc_pr_img_6?smid=AY0CALBZ595FU&th=1
+Orbiter v2 Extruder,4,$140,https://www.amazon.com/gp/product/B0C3QGKQY6/ref=ewc_pr_img_4?smid=A17REXMFA4MBN8&psc=1
+5015 Blower Fan,4,$24,https://www.amazon.com/gp/product/B0DLKJ7WDJ/ref=ewc_pr_img_3?smid=A235LT0EDLFSAR&th=1
+3010 Hotend Fan,4,$16,https://www.amazon.com/gp/product/B0CPT5YPS3/ref=ewc_pr_img_2?smid=A3D10LQA9ZV0ET&th=1
+Dock Brackets (Printed),4,$5,
+Steel Kinematic Ball Dock(printed),4,$15,
+N52 Neodymium Magnets,Assorted,$20,https://www.amazon.com/gp/aw/d/B072KDBJWC/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=d41a49665131ea754be36494de413075&hsa_cr_id=0&qid=1780686258&sr=1-1-9e67e56a-6f64-441f-a281-df67fc737124&ref_=sbx_s_sparkle_sbtcd_asin_0_img&pd_rd_w=UwGbX&content-id=amzn1.sym.2fb72bc8-96ef-420d-b08f-c04b69f36507%3Aamzn1.sym.2fb72bc8-96ef-420d-b08f-c04b69f36507&pf_rd_p=2fb72bc8-96ef-420d-b08f-c04b69f36507&pf_rd_r=95YW0QKB00MB5E3BAW01&pd_rd_wg=TECth&pd_rd_r=b7ba21f2-c6b4-4167-ba9d-a6be15d31dec
+300x300 Aluminum Bed Plate,1,$25,https://www.amazon.com/gp/product/B0F49YHT8V/ref=ox_sc_act_image_19?smid=AVRSAUQJ8N3UI&psc=1
+PEI Spring Steel Sheet,1,$20,https://www.amazon.com/gp/product/B09BJJQD55/ref=ox_sc_act_image_18?smid=A1XVD8GEO78FTP&th=1
+300x300 Silicone Bed Heater (750W),1,$30,https://www.amazon.com/gp/product/B0BBGRSDB1/ref=ox_sc_act_title_23?smid=A274SZ0Q40YDBC&psc=1
+SSR-25DA Solid State Relay,1,$12,https://www.amazon.com/MAKERELE-SSR-25-Single-Semi-Conductor-24-380V/dp/B0D979RF6G/ref=sr_1_1_sspa?crid=2XZCIM3Y3E6W6&dib=eyJ2IjoiMSJ9.0alzO4vIDDaceXV4zyBCDlV0wQUcUcTIcrUUkptbuabU2dITjAxydSqmephLpB1NJPDe5Wo0skTrMnHpjWN5boY9Z-6eKrGa_a927yjBAa9twkJ0pMyEGPqkpTjAD4JzfcJAvJhnmLJGSgujrIVt4WrNbjiTanUFPR2BWB9yanGV3HG_1MNmihgMsdGyuH77aUmXpbWaA399T63YJ2Ztpexr-r8sJ5XPtbg-dWQ2OZzA8MW1myPI3lielw4CKsE8GPPE5mIrlX-1OVQ262DFSLZOZdKNyDe784FIQ3V7sG8.iEMcTE5o4qJXaZaSJTvFvBFOVRTrJ6Hcp6LHHLEL8cE&dib_tag=se&keywords=SSR-25DA+Solid+State+Relay&qid=1780686334&s=industrial&sprefix=%2Cindustrial%2C491&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Printed Parts Filament,1 Lot,$20,https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D4216ZNX/ref=sr_1_2_sspa?crid=2PV1X41F71V7K&dib=eyJ2IjoiMSJ9.2MlRQcrn0BVFTedGVhdpKtKTvHiNp7Hc6TsjMRtsYnLYdfsvYnaawYW5Q-1-nfO1OckjTvSjDzISTLBghpV4Bw099wiF-5hJCy9cGqZfxxVWORJgjHxlXK0UkMSxnVxe4ncbjNLs_gmVinPyWNz55ggX3nHH6uLS9AO3zyQG1Bb6BOrTmQ2ByWBJm0hSm_DIqtOV-CqMtOp8dZRgbuaV8zy-hOxrExzvPKjNpnPH-C8GNL83BwDz3lPMabZlctuFf7g0gILN4m_iOQJchCOO7KHyFiL9Y_zLtjC6kdim4ok.mTKjODI7famitlwbPtst9meMzjv82Sqo3phGLJ8U1s4&dib_tag=se&keywords=purple+filament&qid=1780686347&s=industrial&sprefix=purple+fil%2Cindustrial%2C350&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Wiring + Connectors + Crimps,1 Lot,$25,https://www.amazon.com/Stepper-Cables-XH2-54-Terminal-Printer/dp/B0CRDXNWMZ/ref=sr_1_1_sspa?crid=34S41MO4WNOTL&dib=eyJ2IjoiMSJ9.U9E5IM5QuqumBVItkBmUSeXaM7YWWRImcaIYpGc3Y_dleoIoo9bhSANoCFa-QNTDsoElhL0W9wqi-eM5yNWSnPIgDMbI8pKjIuYm2CaxqrARbfNdLCJcT_lLitovtcXHzgule07ewyZpak1b-i9SBeldcO_0fEAXE7KrVoXNw6Zpk9qNgjHNqNb3OF7bC8mUkysRRjxdQGjK83EErSzpsvKWeO1jTO7qc8losp3KTsPD5BVWOZSAKGpxUeMZhM0o2EUc-8rWlNUJ3m7Kt4JSWC7uCHhYZ6fya0JLy34Z4KQ.PTg0zT6JS-tn_RLLxRxJIo9m_EQhuxrlAG_t-MDr9u0&dib_tag=se&keywords=nema+17+wires&qid=1780686357&s=industrial&sprefix=purple+filament%2Cindustrial%2C2832&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+PTFE-Sleeved Wire Bundle,2,$15,https://www.amazon.com/Ultra-Clear-Filament-Extruder-Compatible-Transparent/dp/B0F1TVH4TW/ref=sr_1_1_sspa?crid=7IBJW2YWFNZ0&dib=eyJ2IjoiMSJ9.6y6oAZgk1K6KcUB9IZpIG6BSirw2GiH1bWqxhFPnCtsQyrNR6q3ob8CnjBObUifvkar_8QdW976uqwYCe7rLpmMcl-KKSTVCblD9uAqdJCf5pra93kFz74ANHhywsYP-1iJMJAsWxQcV63BD7BL7Bm5AfS186xa2BxriK7Ushz_OV2VwX2DcD6AQ17cWjI4FQSTGD0OvO1fMJuPPp0qgXlqNJzOi6P2rfGT7GblccPc5u5fgMNE0Kn3JC8JrwoW8-E307A3R3YfIstMlYuHtXaxzDIYIuimxP4NAhr_rVx0.fSagRh5hCz8HNDG5m5hF20_XR1kKzsP_9JdwqZK9dec&dib_tag=se&keywords=ptfe+tube+for+1.75mm+filament&qid=1780686372&s=industrial&sprefix=ptfe%2Cindustrial%2C338&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Klicky or CR Touch Probe,1,$15,https://www.amazon.com/Creality-Leveling-Compatible-Mainboard-Printer/dp/B0992JPLGR/ref=sr_1_1_sspa?crid=3RAKXOWF62JZZ&dib=eyJ2IjoiMSJ9.MeiVgTj9v3yrm30Nc_jDpxUkeXA9sPTpFdRFYzRfhcGW-ELkJmXs8yApThRksBndwOBe_s70J3Thraq33aJzSjQ0ddHGCuVBVH1cWc9Z5WfU5Bm_ioc0BE5_AuN1Lt9lq-cHCvHSq5xYXryb0B3qcox4GV5Sb7HPqrt4e5dyBg10mbsMJiZBdu2Mbv71ewBCDT2BfAvfMQcI09z3jjDhvQ26FUeyByfgTwFQB0fweQ0p8E2TrMMN4gYBXHEP-OIEuTmG7x2VjkZmBPhIyRl-yE8j7-UJ4qPMb1vigs4qKi4.Wic4lQUTC8cS24jCH6eqlZLHW-Asa-Ml4CXnu5tDnWc&dib_tag=se&keywords=cr+touch&qid=1780686381&s=industrial&sprefix=cr+%2Cindustrial%2C533&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+Frame Brackets + T-Nuts,1 Set,$20,https://www.amazon.com/24-Piece-M5-T-Nuts-Screws-Storage/dp/B0GVSZJSMF/ref=sr_1_1_sspa?crid=1YI7DRT66LPWV&dib=eyJ2IjoiMSJ9.vJdXku4vyc0Pa3ePDrKdI_nHNKtocjV17DLeRbEl5lunaBKm_ctvvS6lpLXWHqjJhqfgZ24cdo-4n0o_29xFQmmkffiNzIhKcBQDiUKQkYvj9SVw2JtMQhqf0KNdisBUF2Qs_q-rqRnMnx97qbyDKWMJr0b5NYatTH8Ie8A-eseqxArZvt_FABvqgUxKS051YutcICzZ0YjDMHlW7cqBDKfoEtjVrrN2QWQLGfrM4RX236eUpGtg4YHPigHwIPMnLGj1Y0n7nnDmLKQXYzFLsjV0IcsNJSc7kF_HSPH1QS4.QioMwA_gwDQDc3jpcCzb0xIZqVTRTP2QPy7dj8LzEqE&dib_tag=se&keywords=t%2Bnuts&qid=1780686391&s=industrial&sprefix=tr%2Cindustrial%2C579&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+Lubricant,1,$10,https://www.amazon.com/Super-Lube-56504-Silicone-Clear/dp/B00OBV1LMK/ref=sr_1_4?crid=D8UVWTSWHOHL&dib=eyJ2IjoiMSJ9.jrLP3-lJyET6MLYvWJPAAqeKyAfc3xFqCcJPUh_i7nVjOUueyLwXaWJmsJaFzb8Mr7oiQNO3qfP_lOq2NKGg6P33NH9Y9uzBkfUqboISfxhgbYxancAdGRwqY-ijSRsIHAw3wG8TKxosm3EpgwLmVrWfm1u1f-Slaw05gNi26N3IaIuvPms0FJGeLmfaK0nLH80I-28EcV6rEEWIKtWD0CgTWZpPy7qOy0wKFgXd8Fc7MBNf2xv8UKZXaUfHzOHRDYku7uFq1qtGNEw_JYzzJpAg-ST4WwIFWCKfF6k11dE._ktg2TrNINEZ-_35pTccVkMK_nHJSsk9DACYDnTSyao&dib_tag=se&keywords=3d+printer+oil&qid=1780686463&s=industrial&sprefix=3d+printer+o%2Cindustrial%2C265&sr=1-4
+Oil,1,$10,https://www.amazon.com/Silicone-Teflon-Based-Lubricant-Automotive-Plumbing/dp/B0D7939Q5Y/ref=sr_1_1_sspa?crid=386SUY2898QS8&dib=eyJ2IjoiMSJ9.1D2UE8_1VwiCuXEpVCc9rFu7u31GKmniUN0Iy0-rbtVOzkF5gZ2vuVMrq2z5oxVxDYlTS7JnKuo0kSGiSYVIBxTcrbQXy-9uFJOSJsl7SaC8i9-cuHYnmL60cO_2ZT-Om72w9SkgQycLdUsj6r6T0juRzgcmh0FO8nksfwdje93BTHlZkCbZqG_cj2ID3FMVOruiBJ7Sy7t4TuVre7bD2smX7flHUI2BW-V40__nn8nF_3t5np4QC4okBhgb0unx8bi-Cl7dQxHEjMCOEZKuTL8853OtmsWmLvo64w4CqB8.7tUpIWRoF9xEN3IPVLAWwuyC0LX4AuU3Pg4CuBX3eSM&dib_tag=se&keywords=3d+printer+grease&qid=1780686785&s=industrial&sprefix=3d+printer+grease%2Cindustrial%2C393&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
