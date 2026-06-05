@@ -1,7 +1,7 @@
 # Multi-ToolHead 3D Printer PurpleWhale(PW)
 
 
-**PW** is a 160mm x 160mm x 300mm custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. This project was made for Fallout.
+**PW** is a 160mm x 160mm x 300mm custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. This project was made for Fallout. The tool swapping mechanism allows users to print in a variety of colors with minimal waste. The overall goal of this printer was to be able to print in multiple colors with minimal waste. 
 
 
 | CAD | Zine |
@@ -14,21 +14,28 @@ more CAD
   <img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/9d6bb2e6-a30e-4061-8248-f8babb43b6ab" />
 
 
+---
+#Printer Wiring Diagram
+This is a extremely rudimentary generalization of the wiring. 
+<img width="1311" height="901" alt="PrinterSchematic" src="https://github.com/user-attachments/assets/21c64d5f-6900-4278-96eb-1668bb945c33" />
 
 ---
 
 ## Tool Swapping Mechanism
 
 The printer uses a custom made tool swapping mechanism that uses 3 pogo pins to hold tool heads. Heavily inspired by the stealth changer. 
----
+
 
 ## Gantry Mechanism
 
-The printer uses a COREXY gantry and 4 stepper motors for z axis control. It is a flying gantry design. 
----
+This printer uses a flying COREXY gantry mechanism. The printer can move in the XY direction using only two motors. It moves in the z axis using 4 stepper motors with linear rails and leadscrews.
 
+## Assembly 
+To assemble this, you will need a bunch of M3, M4, and M5 screws with their respective nuts. 
 
 ## Bill of Materials
+A more detailed Bill Of Materials exists as [`BOM.CSV`]((https://github.com/Pnav22/Multi-ToolHead-Printer-PurpleWhale/blob/main/BOM.csv))   
+
 
 | Item | Quantity | Cost (USD) |
 |------|----------|------------|
