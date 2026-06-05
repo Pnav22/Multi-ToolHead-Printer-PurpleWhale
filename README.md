@@ -1,4 +1,4 @@
-# Multi-ToolHead-Printer-PurpleWhale(PW)
+# Multi-ToolHead 3D Printer PurpleWhale(PW)
 
 
 **PW** is a 160mm x 160mm x 300mm custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. This project was made for Fallout.
