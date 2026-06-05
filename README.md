@@ -27,7 +27,7 @@ The printer uses a custom made tool swapping mechanism that uses 3 pogo pins to 
 This printer uses a flying COREXY gantry mechanism. The printer can move in the XY direction using only two motors. It moves in the z axis using 4 stepper motors with linear rails and leadscrews.
 
 ## Bill of Materials
-A more detailed Bill Of Materials exists as BOM.CSV(BOM.CSV)
+A more detailed Bill Of Materials exists as [`BOM.CSV`]((https://github.com/Pnav22/Multi-ToolHead-Printer-PurpleWhale/blob/main/BOM.csv))   
 
 
 | Item | Quantity | Cost (USD) |
