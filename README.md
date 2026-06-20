@@ -3,6 +3,8 @@
 
 **PW** is a 160mm x 160mm x 300mm custom Multitoolhead 3d printer heavily inspired by the VORON. It is a 100% custom design. This project was made for Fallout. The tool swapping mechanism allows users to print in a variety of colors with minimal waste. The overall goal of this printer was to be able to print in multiple colors with minimal waste. 
 
+#Why I designed this printer
+I created this printer so I could print out figurines in multiple colors instead of having to sand and paint them. I suck at painting so I thought this printer would get rid of that issue. Its mostly so I can print warhammer figurines in multiple colors without having to paint them. 
 
 | CAD | Zine |
 |:---:|:---:|
