@@ -14,6 +14,12 @@ more CAD
 
   <img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/82509811-5408-434a-9924-b8e7a9280983" />
   <img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/9d6bb2e6-a30e-4061-8248-f8babb43b6ab" />
+  <img width="709" height="722" alt="image" src="https://github.com/user-attachments/assets/31f44b4e-9244-4743-9ceb-c82bb189d557" />
+  <img width="748" height="643" alt="image" src="https://github.com/user-attachments/assets/3bb15057-69ea-4736-98d8-eb33fe3ad12c" />
+  <img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/b35ec49d-dfc4-47c6-92d1-6e74dd4e600a" />
+
+
+
 
 
 ---
